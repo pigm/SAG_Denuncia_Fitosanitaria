@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<style name="CounterStyle" parent="TextAppearance.AppCompat.Small">
+    <item name="android:textColor">@android:color/white</item>
+    <!--other parameters that you want to change -->
+</style>

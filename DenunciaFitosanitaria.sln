@@ -1,0 +1,64 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenunciaFitosanitaria", "DenunciaFitosanitaria\DenunciaFitosanitaria.csproj", "{644D8044-A2C9-4AE2-A649-F6AC61D757A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Presentacion", "01. Presentacion", "{C2A4CD47-5994-40FE-90C0-36C8374DC04E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Negocio", "02. Negocio", "{33225F7A-3A76-431F-96BF-E162259445D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Datos", "03. Datos", "{6BF8FE5B-0709-4D09-9F00-D4F4819AFF16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Transversal", "04. Transversal", "{9F44F641-8EC6-4F2D-AFBB-D3F84A1BEC60}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Servicios", "05. Servicios", "{0BA38C63-BB22-48FF-8FC6-AB6385039409}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06. Documentacion", "06. Documentacion", "{B4458242-068E-4500-A4A3-E3C12CFAB011}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07. Test", "07. Test", "{E117D00A-B138-48A2-812E-71E83B989356}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08. External", "08. External", "{B653F20A-628C-4D38-91A4-627E6D0082C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenunciaFitosanitaria.Services.Common", "DenunciaFitosanitaria.Services.Common\DenunciaFitosanitaria.Services.Common.csproj", "{B75203F8-5002-42D4-8B47-14FE8114BC40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenunciaFitosanitaria.Utils", "DenunciaFitosanitaria.Utils\DenunciaFitosanitaria.Utils.csproj", "{0126A42A-3847-4857-B693-47449D6CA505}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenunciaFitosanitaria.Data.Common", "DenunciaFitosanitaria.Data.Common\DenunciaFitosanitaria.Data.Common.csproj", "{5661F55C-BE1B-4B56-9CDB-2726D318063A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenunciaFitosanitaria.Business.Common", "DenunciaFitosanitaria.Business.Common\DenunciaFitosanitaria.Business.Common.csproj", "{5B953BCB-98C4-41E5-A6D9-AA21A6A53A98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{644D8044-A2C9-4AE2-A649-F6AC61D757A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644D8044-A2C9-4AE2-A649-F6AC61D757A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644D8044-A2C9-4AE2-A649-F6AC61D757A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644D8044-A2C9-4AE2-A649-F6AC61D757A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B75203F8-5002-42D4-8B47-14FE8114BC40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B75203F8-5002-42D4-8B47-14FE8114BC40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B75203F8-5002-42D4-8B47-14FE8114BC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B75203F8-5002-42D4-8B47-14FE8114BC40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0126A42A-3847-4857-B693-47449D6CA505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0126A42A-3847-4857-B693-47449D6CA505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0126A42A-3847-4857-B693-47449D6CA505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0126A42A-3847-4857-B693-47449D6CA505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5661F55C-BE1B-4B56-9CDB-2726D318063A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5661F55C-BE1B-4B56-9CDB-2726D318063A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5661F55C-BE1B-4B56-9CDB-2726D318063A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5661F55C-BE1B-4B56-9CDB-2726D318063A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B953BCB-98C4-41E5-A6D9-AA21A6A53A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B953BCB-98C4-41E5-A6D9-AA21A6A53A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B953BCB-98C4-41E5-A6D9-AA21A6A53A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B953BCB-98C4-41E5-A6D9-AA21A6A53A98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{644D8044-A2C9-4AE2-A649-F6AC61D757A7} = {C2A4CD47-5994-40FE-90C0-36C8374DC04E}
+		{B75203F8-5002-42D4-8B47-14FE8114BC40} = {0BA38C63-BB22-48FF-8FC6-AB6385039409}
+		{0126A42A-3847-4857-B693-47449D6CA505} = {9F44F641-8EC6-4F2D-AFBB-D3F84A1BEC60}
+		{5661F55C-BE1B-4B56-9CDB-2726D318063A} = {6BF8FE5B-0709-4D09-9F00-D4F4819AFF16}
+		{5B953BCB-98C4-41E5-A6D9-AA21A6A53A98} = {33225F7A-3A76-431F-96BF-E162259445D7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relLayoutParent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="0dp"
+    android:background="@drawable/symbol11_4">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:background="@android:color/transparent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textAlignment="gravity"
+        android:gravity="top"
+        android:minWidth="25px"
+        android:minHeight="25px">
+        <include
+            layout="@layout/ToolbarMenu" />
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:fillViewport="true"
+            android:id="@+id/scrollViewSubCat"
+            android:layout_marginBottom="100dp">
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/linearLayoutSubCat"
+                textAlignment="center">
+                <GridView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:verticalSpacing="2dp"
+                    android:horizontalSpacing="2dp"                  
+                    android:id="@+id/gridViewSubCat"
+                    android:numColumns="2"
+                    android:stretchMode="columnWidth" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    <RelativeLayout
+        android:id="@+id/ButtonRelativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:layout_marginBottom="10dp">
+        <Button
+            android:id="@+id/btndenunciarapid"
+            android:layout_width="269.5dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:background="@drawable/Group322" />
+    </RelativeLayout>
+</RelativeLayout>

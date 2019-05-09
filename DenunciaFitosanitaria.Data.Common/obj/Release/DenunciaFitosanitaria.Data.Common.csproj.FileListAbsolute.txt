@@ -1,0 +1,11 @@
+/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Data.Common/bin/Release/DenunciaFitosanitaria.Data.Common.dll
+/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Data.Common/obj/Release/DenunciaFitosanitaria.Data.Common.csproj.CoreCompileInputs.cache
+/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Data.Common/obj/Release/DenunciaFitosanitaria.Data.Common.dll
+/Volumes/Proyectos/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Data.Common/bin/Release/DenunciaFitosanitaria.Data.Common.dll
+/Volumes/Proyectos/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Data.Common/obj/Release/DenunciaFitosanitaria.Data.Common.csproj.CoreCompileInputs.cache
+/Volumes/Proyectos/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Data.Common/obj/Release/DenunciaFitosanitaria.Data.Common.dll
+/Volumes/Proyectos/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Data.Common/obj/Release/DenunciaFitosanitaria.Data.Common.csprojAssemblyReference.cache
+/Users/pablogarrido/Desktop/Repositorios/SAG_Denuncia_Fitosanitaria/DenunciaFitosanitaria.Data.Common/bin/Release/DenunciaFitosanitaria.Data.Common.dll
+/Users/pablogarrido/Desktop/Repositorios/SAG_Denuncia_Fitosanitaria/DenunciaFitosanitaria.Data.Common/obj/Release/DenunciaFitosanitaria.Data.Common.csprojAssemblyReference.cache
+/Users/pablogarrido/Desktop/Repositorios/SAG_Denuncia_Fitosanitaria/DenunciaFitosanitaria.Data.Common/obj/Release/DenunciaFitosanitaria.Data.Common.csproj.CoreCompileInputs.cache
+/Users/pablogarrido/Desktop/Repositorios/SAG_Denuncia_Fitosanitaria/DenunciaFitosanitaria.Data.Common/obj/Release/DenunciaFitosanitaria.Data.Common.dll

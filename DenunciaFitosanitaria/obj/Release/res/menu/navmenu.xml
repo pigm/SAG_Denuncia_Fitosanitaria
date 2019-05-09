@@ -1,0 +1,1 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"><group android:checkableBehavior="single"><item android:id="@+id/menuitem1" android:icon="@drawable/close_1_" android:title="@string/menu1" /></group></menu>

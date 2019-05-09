@@ -1,0 +1,15 @@
+/Dsac/SAG/DenunciaFitosanitaria/DenunciaFitosanitaria.Utils/bin/Debug/DenunciaFitosanitaria.Utils.dll
+/Dsac/SAG/DenunciaFitosanitaria/DenunciaFitosanitaria.Utils/bin/Debug/DenunciaFitosanitaria.Utils.pdb
+/Dsac/SAG/DenunciaFitosanitaria/DenunciaFitosanitaria.Utils/obj/Debug/DenunciaFitosanitaria.Utils.csproj.CoreCompileInputs.cache
+/Dsac/SAG/DenunciaFitosanitaria/DenunciaFitosanitaria.Utils/obj/Debug/DenunciaFitosanitaria.Utils.dll
+/Dsac/SAG/DenunciaFitosanitaria/DenunciaFitosanitaria.Utils/obj/Debug/DenunciaFitosanitaria.Utils.pdb
+/Volumes/Proyectos/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Utils/bin/Debug/DenunciaFitosanitaria.Utils.dll
+/Volumes/Proyectos/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Utils/bin/Debug/DenunciaFitosanitaria.Utils.pdb
+/Volumes/Proyectos/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Utils/obj/Debug/DenunciaFitosanitaria.Utils.csproj.CoreCompileInputs.cache
+/Volumes/Proyectos/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Utils/obj/Debug/DenunciaFitosanitaria.Utils.dll
+/Volumes/Proyectos/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Utils/obj/Debug/DenunciaFitosanitaria.Utils.pdb
+/Users/pablogarrido/Desktop/Repositorios/SAG_Denuncia_Fitosanitaria/DenunciaFitosanitaria.Utils/bin/Debug/DenunciaFitosanitaria.Utils.dll
+/Users/pablogarrido/Desktop/Repositorios/SAG_Denuncia_Fitosanitaria/DenunciaFitosanitaria.Utils/bin/Debug/DenunciaFitosanitaria.Utils.pdb
+/Users/pablogarrido/Desktop/Repositorios/SAG_Denuncia_Fitosanitaria/DenunciaFitosanitaria.Utils/obj/Debug/DenunciaFitosanitaria.Utils.csproj.CoreCompileInputs.cache
+/Users/pablogarrido/Desktop/Repositorios/SAG_Denuncia_Fitosanitaria/DenunciaFitosanitaria.Utils/obj/Debug/DenunciaFitosanitaria.Utils.dll
+/Users/pablogarrido/Desktop/Repositorios/SAG_Denuncia_Fitosanitaria/DenunciaFitosanitaria.Utils/obj/Debug/DenunciaFitosanitaria.Utils.pdb

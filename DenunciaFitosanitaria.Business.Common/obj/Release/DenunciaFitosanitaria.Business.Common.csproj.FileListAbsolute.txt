@@ -1,0 +1,8 @@
+/Volumes/Proyectos/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Business.Common/bin/Release/DenunciaFitosanitaria.Business.Common.dll
+/Volumes/Proyectos/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Business.Common/obj/Release/DenunciaFitosanitaria.Business.Common.csprojAssemblyReference.cache
+/Volumes/Proyectos/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Business.Common/obj/Release/DenunciaFitosanitaria.Business.Common.csproj.CoreCompileInputs.cache
+/Volumes/Proyectos/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Business.Common/obj/Release/DenunciaFitosanitaria.Business.Common.dll
+/Users/pablogarrido/Desktop/Repositorios/SAG_Denuncia_Fitosanitaria/DenunciaFitosanitaria.Business.Common/bin/Release/DenunciaFitosanitaria.Business.Common.dll
+/Users/pablogarrido/Desktop/Repositorios/SAG_Denuncia_Fitosanitaria/DenunciaFitosanitaria.Business.Common/obj/Release/DenunciaFitosanitaria.Business.Common.csprojAssemblyReference.cache
+/Users/pablogarrido/Desktop/Repositorios/SAG_Denuncia_Fitosanitaria/DenunciaFitosanitaria.Business.Common/obj/Release/DenunciaFitosanitaria.Business.Common.csproj.CoreCompileInputs.cache
+/Users/pablogarrido/Desktop/Repositorios/SAG_Denuncia_Fitosanitaria/DenunciaFitosanitaria.Business.Common/obj/Release/DenunciaFitosanitaria.Business.Common.dll

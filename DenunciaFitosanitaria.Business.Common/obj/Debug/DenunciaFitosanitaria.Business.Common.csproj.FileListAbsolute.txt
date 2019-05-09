@@ -1,0 +1,16 @@
+/Dsac/SAG/DenunciaFitosanitaria/DenunciaFitosanitaria.Business.Common/bin/Debug/DenunciaFitosanitaria.Business.Common.dll
+/Dsac/SAG/DenunciaFitosanitaria/DenunciaFitosanitaria.Business.Common/bin/Debug/DenunciaFitosanitaria.Business.Common.pdb
+/Dsac/SAG/DenunciaFitosanitaria/DenunciaFitosanitaria.Business.Common/obj/Debug/DenunciaFitosanitaria.Business.Common.csproj.CoreCompileInputs.cache
+/Dsac/SAG/DenunciaFitosanitaria/DenunciaFitosanitaria.Business.Common/obj/Debug/DenunciaFitosanitaria.Business.Common.dll
+/Dsac/SAG/DenunciaFitosanitaria/DenunciaFitosanitaria.Business.Common/obj/Debug/DenunciaFitosanitaria.Business.Common.pdb
+/Volumes/Proyectos/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Business.Common/bin/Debug/DenunciaFitosanitaria.Business.Common.dll
+/Volumes/Proyectos/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Business.Common/bin/Debug/DenunciaFitosanitaria.Business.Common.pdb
+/Volumes/Proyectos/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Business.Common/obj/Debug/DenunciaFitosanitaria.Business.Common.csprojAssemblyReference.cache
+/Volumes/Proyectos/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Business.Common/obj/Debug/DenunciaFitosanitaria.Business.Common.csproj.CoreCompileInputs.cache
+/Volumes/Proyectos/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Business.Common/obj/Debug/DenunciaFitosanitaria.Business.Common.dll
+/Volumes/Proyectos/Dsac/repo/SAG/Denuncia_Fitosanitaria/DenunciaFitosanitaria.Business.Common/obj/Debug/DenunciaFitosanitaria.Business.Common.pdb
+/Users/pablogarrido/Desktop/Repositorios/SAG_Denuncia_Fitosanitaria/DenunciaFitosanitaria.Business.Common/bin/Debug/DenunciaFitosanitaria.Business.Common.dll
+/Users/pablogarrido/Desktop/Repositorios/SAG_Denuncia_Fitosanitaria/DenunciaFitosanitaria.Business.Common/bin/Debug/DenunciaFitosanitaria.Business.Common.pdb
+/Users/pablogarrido/Desktop/Repositorios/SAG_Denuncia_Fitosanitaria/DenunciaFitosanitaria.Business.Common/obj/Debug/DenunciaFitosanitaria.Business.Common.csproj.CoreCompileInputs.cache
+/Users/pablogarrido/Desktop/Repositorios/SAG_Denuncia_Fitosanitaria/DenunciaFitosanitaria.Business.Common/obj/Debug/DenunciaFitosanitaria.Business.Common.dll
+/Users/pablogarrido/Desktop/Repositorios/SAG_Denuncia_Fitosanitaria/DenunciaFitosanitaria.Business.Common/obj/Debug/DenunciaFitosanitaria.Business.Common.pdb
